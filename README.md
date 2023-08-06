@@ -15,6 +15,9 @@ The project also includes the visualization of training and validation accuracy 
 Overall, this project showcases the application of deep learning techniques to automate the process of trash detection and classification. By utilizing a trained CNN model, the project offers a solution for efficient waste management practices. The classification results can aid in proper waste disposal and recycling efforts.
 
 
+
+# Data set Link 
+https://drive.google.com/drive/folders/1b7_EgLEALayKrStgwopS37nVB9MjEDrB?usp=sharing
 # Output Demo 
 
 
