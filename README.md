@@ -18,4 +18,5 @@ Overall, this project showcases the application of deep learning techniques to a
 # Output Demo 
 
 
-![download](https://github.com/01manasrathi/Eco_vision/assets/141512690/4949eff6-f809-452a-9a58-829c12c36c3a)
+![image](https://github.com/01manasrathi/Eco_vision/assets/141512690/7d795eee-452e-4fcf-9c7e-47f33c4281e0)
+![image](https://github.com/01manasrathi/Eco_vision/assets/141512690/d32e8132-5944-49c5-b7a0-8f865e0a058f)
