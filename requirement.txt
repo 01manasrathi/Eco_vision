@@ -1,0 +1,9 @@
+scikit-build
+
+tensorflow
+pandas
+matplotlib
+pillow
+opencv-python-headless
+glob2
+
